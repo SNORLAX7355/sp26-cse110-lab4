@@ -1,2 +1,2 @@
 1. The bug was that the input for num1 and num2 were both strings, not numbers.
-2. 
+2. I would fix it by converting the inputs to numbers, then addidng them and storing it into result. ['fix'](../../expand/screenshots/fix.png)
