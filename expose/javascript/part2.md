@@ -35,4 +35,4 @@
 16. ['Code'](part2-question16.js)
 17. The function will return the array *[2, 4, 6]*. When the function runs its loop, for each iteration, doSomething function is called that doubles the value passed as a parameter, doubling each value of the array.
 18. ['Code'](part2-question18.js)
-19. Output: 1 4 3 2   1 and 4 are printed to the console first since they are synchronous, even if a setTimeout with a time of 0 is run before it. Then 3 with a timeout of 0 seconds and 2 with a timeout of 1 second are printed next.
+19. Output: 1 4 3 2;  1 and 4 are printed to the console first since they are synchronous, even if a setTimeout with a time of 0 is run before it. Then 3 with a timeout of 0 seconds and 2 with a timeout of 1 second are printed next.
